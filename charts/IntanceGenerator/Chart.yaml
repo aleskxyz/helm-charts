@@ -1,0 +1,15 @@
+apiVersion: v2
+name: InstanceGenerator
+description: This chart generates exclusive Values for specified intances based on them specific properties.
+type: library
+version: 0.1.0
+keywords:
+  - instance
+  - object
+  - class
+sources:
+  - https://github.com/aleskxyz/helm-charts/charts/InstanceGenerator
+maintainers:
+  - name: Alireza Eskandari
+    email: aleskxyz@gmail.com
+    url: https://www.alesk.xyz
