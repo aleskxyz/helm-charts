@@ -8,7 +8,7 @@ keywords:
   - object
   - class
 sources:
-  - https://github.com/aleskxyz/helm-charts/charts/InstanceGenerator
+  - https://github.com/aleskxyz/helm-charts/tree/master/charts/InstanceGenerator/
 maintainers:
   - name: Alireza Eskandari
     email: aleskxyz@gmail.com
